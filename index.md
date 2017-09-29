@@ -1,11 +1,11 @@
 ## Artificial Intelligence
 
-### We can't build something smarter than ourselves
-And we actually wouldn't even want to, even if it was possible. 
+### Future? It's now!
 
 ### Levels of AI
 
-### Future? It's now!
+### No competition
+We can't build something as smart than ourselves. And we actually wouldn't even want to, even if it was possible. Why should we?
 
 ### Define intelligence
 
