@@ -9,7 +9,7 @@ If you think AI is some super SciFi thingy made up by the tv industry - let me t
 AI does not aim to mimick our races behavior nor to outmatch our cleverness. Think of it more as an aid to your life such as your car's navigation system, just a wee smarter. Smarter in a sense of better adjusting to it's surroundings. Smarter in a sense of learning from past outcomes. Not smarter in a sense of starting to feel repressed and wanting to conquer the world to the point of human extinction. And quite frankly, we can't build something as clever than ourselves. And we don't want to.
 
 ### Levels of AI
-Different forms of todays and future artificial intelligences are being divided into three different classes
+Different forms of todays and future artificial intelligences are being divided into three different classes: Narrow, General and Super Intelligence. Narrow Artificial Intelligence, also refered to as weak AI, focusses on a very specific range of tasks. It's the kind of AI you already know, things like your unbeatable chess oponent. 
 
 
 ### Define intelligence
