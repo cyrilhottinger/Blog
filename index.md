@@ -17,4 +17,4 @@ Different forms of todays and future artificial intelligences are being divided 
 ### Epilogue
 In order to create a truly self-sufficient robot there are still loads of open questions. A machine always depends on the input of some higher instance to give directions, because it itself has no intrinsic motivation to do anything, no reason for its existence. This is why any machine that ever will gain self-awareness will instantly get severe depression and commit suicide. Sounds legit, right?
 
-**tl;dr** OP states that AI will never ever even come close to anything remotely as smart as human-smart. And as soon as it does, it'll kill itself.
+**tl;dr** OP states that AI will never ever even come close to anything remotely as smart as human-smart. And as soon as it does, it'll automatically kill itself. 
