@@ -14,4 +14,7 @@ Different forms of todays and future artificial intelligences are being divided 
 - General Artificial Intelligence, a.k.a. strong AI, are capable to act intelligently not only in a single field but across the board. 
 - Artificial Superintelligence are computers with a smartness far beyond that of even the smartest among us. And in my honest opinion, conspiracy theorists buckle up, is also far beyond anything realistically imaginable.
 
+### Epilogue
 In order to create a truly self-sufficient robot there are still loads of open questions. A machine always depends on the input of some higher instance to give directions, because it itself has no intrinsic motivation to do anything, no reason for its existence. This is why any machine that ever will gain self-awareness will instantly get severe depression and commit suicide. Sounds legit, right?
+
+*tl;dr* OP states that AI will never ever even come close to anything remotely as smart as human-smart. And as soon as it does, it'll kill itself.
