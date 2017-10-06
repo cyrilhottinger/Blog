@@ -12,9 +12,6 @@ AI does not aim to mimick our races behavior nor to outmatch our cleverness. Thi
 Different forms of todays and future artificial intelligences are being divided into three different classes: Narrow, General and Super Intelligence. 
 - Narrow Artificial Intelligence, also refered to as weak AI, focusses on a very specific range of tasks. It's the kind of AI you already know, things like your unbeatable chess oponent. 
 - General Artificial Intelligence, a.k.a. strong AI, are capable to act intelligently not only in a single field but across the board. 
-- Artificial Superintelligence are computers with a smartness far beyond that of even the smartest among us. And, conspiricy theorists buckle up, in my honest opionion, is also far beyond anything realistically imaginable.
+- Artificial Superintelligence are computers with a smartness far beyond that of even the smartest among us. And in my honest opionion, conspiricy theorists buckle up, is also far beyond anything realistically imaginable.
 
-### Define intelligence
-
-### What to expect
-
+In order to create a truly self-sufficient robot there are still loads of open questions. A machine always depends on the input of some higher instance to give directions, because it itself has no intrinsic motivation to do anything, no reason for it's existence. This is why any machine that ever will gain self-awareness will instantly get severe depression and commit suicide. Sounds legitimate, right?
