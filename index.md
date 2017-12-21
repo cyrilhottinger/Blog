@@ -18,3 +18,13 @@ Different forms of todays and future artificial intelligences are being divided 
 In order to create a truly self-sufficient robot there are still loads of open questions. A machine always depends on the input of some higher instance to give directions, because it itself has no intrinsic motivation to do anything, no reason for its existence. This is why any machine that ever will gain self-awareness will instantly get severe depression and commit suicide. Sounds legit, right?
 
 **tl;dr** OP states that AI will never ever even come close to anything remotely as smart as human-smart. And as soon as it does, it'll automatically kill itself. Further he supposes people promoting the possibility of superintelligence are either earning their money in film business or in illuminati.
+
+
+
+## Edit
+
+After having been confronted with roughly a dozen lectures on the topic of artificial intelligence and dealing with four programming assignments on the topic I can safely say that AI is just algorithms and datastructures on amphetamines. In the "where's the intelligence" slides at the end of each lecture was always concluded that the smartsy lies mostly within the design of the algorithm, the datastructures, the logic and so on. It's a lot about tweaking and combining already existing techniques.
+
+So after all I was not too off when I first wrote this little essay on artificial intelligence. I still believe that computers will never be able to reason and thereby not reach human level intelligence ever. Nevertheless I think the essay is not good. An uninformed reader still wouldn't know what AI is after having read it.
+
+We were given two articles trying to foresee the future at the start of the course. When I first read them I thought, and I still think, that's nonesense. It seemed the authors of the given articles were more of paranoid philosophers or conspiracy theorists other than educated engineers or scientists.
