@@ -21,7 +21,9 @@ In order to create a truly self-sufficient robot there are still loads of open q
 
 
 
-## Edit
+### Edit
+
+Three months and one introductory AI course later...
 
 After having been confronted with roughly a dozen lectures on the topic of artificial intelligence and dealing with four programming assignments on the topic I can safely say that AI is just algorithms and datastructures on amphetamines. In the "where's the intelligence" slides at the end of each lecture was always concluded that the smartsy lies mostly within the design of the algorithm, the datastructures, the logic and so on. It's a lot about tweaking and combining already existing techniques.
 
